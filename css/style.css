@@ -57,7 +57,7 @@ body {
 }
 
 .single-product:hover {
-  box-shadow: 4px 4px 7px gray;
+  /* box-shadow: 4px 4px 7px gray; */
   border-radius: 10px;
   border: 1px solid cyan;
   height: 600px;
@@ -87,6 +87,7 @@ box-shadow: 10px 10px 20px gray;
 border-radius: 14px;
 margin-right: 43px;
 position: absolute;
+background:white;
 }
 
 .cart-main {
