@@ -81,15 +81,17 @@ body {
   margin-right: 30px;
   position: fixed; */
   width: 323px;
-border: 1px solid green;
+border: 1px solid burlywood;
 padding: 27px;
-box-shadow: 10px 10px 20px gray;
+box-shadow: 5px 5px 20px cyan;
 border-radius: 14px;
 margin-right: 43px;
 position: absolute;
 background:white;
 }
-
+.cart:hover{
+  box-shadow: 10px 10px 20px green;
+}
 .cart-main {
   padding-right: 30px;
 }
